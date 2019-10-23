@@ -1,9 +1,12 @@
+"""
+BASIC CALCULATIONS OF ADDITION, SUBTRACTION, MULTIPLICATION, DIVISION, & SQUARE OF NUMBER 
 
+"""
 def add(x,y):
     pass
 
 def subtract(x,y):
-    pass
+    return (x-y)
 
 def multiply(x,y):
     pass
